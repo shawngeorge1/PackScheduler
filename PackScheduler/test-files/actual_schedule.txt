@@ -1,0 +1,4 @@
+CSC216,Programming Concepts - Java,601,4,jep,A
+CSC230,C and Software Tools,001,3,dbsturgi,MW,1145,1300
+CSC116,Intro to Programming - Java,001,3,jdyoung2,MW,910,1100
+Lunch,MTWHF,1305,1400,1,

@@ -1,0 +1,5 @@
+.checkstyle
+.pmd
+.settings/
+/bin/
+/registrar.properties
